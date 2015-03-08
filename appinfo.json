@@ -29,9 +29,9 @@
                 "type": "font"
             },
             {
-                "file": "images/tennis-ball-256.png",
+                "file": "images/tennis-ball-128.png",
                 "menuIcon": true,
-                "name": "IMAGES_TENNIS_BALL_256_PNG",
+                "name": "IMAGES_TENNIS_BALL_128_PNG",
                 "type": "png"
             }
         ]
