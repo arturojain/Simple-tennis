@@ -99,9 +99,6 @@ function friendScores(){
       break;
     case 30:
       friendScore = 40;
-      if(foeScore == 40){
-        //show due
-      }
       break;
     case 40:
       if(foeScore == 40){
@@ -144,7 +141,6 @@ function foeScores(){
       if(friendScore == 40){
         foeScore = 41;
       } else if(friendScore == 41){
-        //show due
         foeScore = 40;
         friendScore = 40;
       } else {
