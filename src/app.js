@@ -134,8 +134,6 @@ function foeScores(){
       break;
     case 30:
       foeScore = 40;
-      if(friendScore == 40){
-      }
       break;
     case 40:
       if(friendScore == 40){
